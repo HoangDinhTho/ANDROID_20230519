@@ -9,4 +9,17 @@
     <string name="title_7">7</string>
     <string name="title_8">8</string>
     <string name="title_9">9</string>
+    <string name="color_name_green">Green</string>
+    <string name="color_name_blue">Blue</string>
+    <string name="color_name_red">Red</string>
+    <string name="color_name_purple">Purple</string>
+    <string name="color_name_yellow">Yellow</string>
+    <string name="color_name_orange">Orange</string>
+    <string name="title_first">First</string>
+    <string name="title_second">Second</string>
+    <string name="title_three">Three</string>
+    <string name="title_four">Four</string>
+    <string name="title_five">Five</string>
+    <string name="title_top_content">Top content here</string>
+    <string name="title_bottom_content">Bottom content here</string>
 </resources>
